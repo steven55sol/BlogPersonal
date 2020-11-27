@@ -1,0 +1,41 @@
+body{
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+#cabecera {
+    background-color: cornflowerblue;
+    margin: 0;
+    padding: 0.5em;
+    font-size: 1em;
+    box-shadow: 0px 0px 5px #000;
+}
+
+
+#container{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #111;
+    margin: 200px auto;
+    background-color: #111;
+}
+
+#post h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+#container #post{
+    padding: 1em;
+}
+
+#title{
+    color: #111;
+    font-size: 25px;
+}
